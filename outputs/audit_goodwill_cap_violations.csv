@@ -1,0 +1,83 @@
+ticket_id,created_at,first_response_at,resolved_at,status,channel,customer_id,order_id,product_sku,category,priority,assigned_team,agent_id,transfers,csat_score,refund_amount_inr,refund_reason_code,replacement_issued,customer_message,agent_notes,source_system,created_at_dt,first_response_at_dt,resolved_at_dt,first_response_hours,sla_target_hours,is_sla_breach,sla_breach_cost_inr,transfer_cost_inr
+TK-240184,2025-01-01 19:31,2025-01-01 19:31,2025-01-01 14:23,resolved,chat,C104300,VR894554,VA-SW-FIT,App & Firmware,Normal,Chat Frontline,A3011,0,,1799.0,GW-OTHER,N,"Dear team,
+This is regarding the fit band. Battery life has dropped to almost nothing.
+I turned off always-on display.
+I want my money back.
+Awaiting response",cx: battery draining fast | chk usage pattern with cx -> full rfnd processed (1799) -SM,legacy_fd,2025-01-01 19:31:00,2025-01-01 19:31:00,2025-01-01 19:53:00,0.0,0.25,False,0.0,0.0
+TK-240462,2025-01-23 11:20,2025-01-23 11:21,2025-01-23 06:20,resolved,chat,C109478,VR889065,VA-SP-ORB,Connectivity,Normal,Chat Frontline,A3014,0,,540.0,GW-OTHER,N,"Product: Orbit speaker
+Order: VR889065
+Purchased: 01 Dec
+Issue: connection drops constantly
+Tried: reset both devices
+Expected: refund",rfnd approved ~Rohan,legacy_fd,2025-01-23 11:20:00,2025-01-23 11:21:00,2025-01-23 11:50:00,0.016666666666666666,0.25,False,0.0,0.0
+TK-240617,2025-02-04 16:07,2025-02-04 17:28,2025-02-06 17:58,resolved,social,C106941,VR881684,VA-NB-ARC,Warranty & Repair,Normal,Escalations & Warranty,A3042,0,4.0,1104.0,GW-OTHER,N,"claim number RMA93416, anyone alive there?, VR881684",customer reached out - rma status query. followed up with service centre. refund of rs 1104 initiated to source.,legacy_fd,2025-02-04 16:07:00,2025-02-04 17:28:00,2025-02-06 23:28:00,1.35,4.0,False,0.0,0.0
+TK-242554,2025-05-23 20:46,2025-05-23 20:51,2025-05-23 15:33,resolved,chat,C105327,VR882575,VA-EB-PL1,Connectivity,Normal,Chat Frontline,A3013,0,,2124.0,GW-OTHER,N,"hello, bought pulse 1 around april 12 from vireo.in. cannot pair pulse 1 with my laptop. i restarted the phone. i want a replacement. thanks siddharth dutta",Refunded Rs 2124. Issue: pairing failure. Walked through forget + re-pair. //SNE,legacy_fd,2025-05-23 20:46:00,2025-05-23 20:51:00,2025-05-23 21:03:00,0.08333333333333333,0.25,False,0.0,0.0
+TK-245078,2025-09-13 21:37,2025-09-14 01:00,2025-09-13 19:43,resolved,email,C106421,VR885065,VA-SW-NX2,App & Firmware,High,Email Frontline,A3017,0,,6499.0,GW-OTHER,N,pathetic experience honestly. bought my nexa 2 watch around 11-02-2025 from vireo.in. app crashes when i open device settings. i already updated phone. this is the last time i buy from you.,Customer states app crashing. Known issue on Android 14 - bug logged. Full refund processed (6499).,legacy_fd,2025-09-13 21:37:00,2025-09-14 01:00:00,2025-09-14 01:13:00,3.3833333333333333,8.0,False,0.0,0.0
+TK-245314,2025-09-22 01:41,2025-09-22 01:41,2025-09-22 02:14,resolved,chat,C105497,VR892604,VA-EB-AIR,Charging & Battery,Normal,Chat Frontline,A3003,0,,1799.0,GW-OTHER,N,"Deaar Sir/Madam,
+
+I am wriitng w/ referencce to my order of AirLite placed on 16-07-2025. Dies by lunchtime w/ light use. I have turrned off always-on display. I request u to process a refund to my original payment method.
+
+Regards,
+Rohan Bhatia",cust contacted re poor battery backup. checked usage pattern with cx. refund of rs 1799 initiated to source.,helpdesk,2025-09-22 01:41:00,2025-09-22 01:41:00,2025-09-22 02:14:00,0.0,0.25,False,0.0,0.0
+TK-245763,2025-10-07 18:42,2025-10-07 19:17,2025-10-07 19:41,resolved,voice,C102175,VR900705,VA-EB-PL2,Charging & Battery,High,Voice Frontline,A3023,0,,3499.0,GW-OTHER,N,"hi
+left earbud shows 0% & never charges",Escalated to warranty for inspection. Issue: left bud not charging. Checked case LED behaviour with cx.,helpdesk,2025-10-07 18:42:00,2025-10-07 19:17:00,2025-10-07 19:41:00,0.5833333333333334,2.0,False,0.0,0.0
+TK-246454,2025-10-28 11:36,2025-10-28 23:22,,open,email,C104190,VR902282,VA-SW-FIT,Warranty & Repair,Normal,Escalations & Warranty,A3043,0,,1899.0,GW-OTHER,N,"hello
+touch sreen not responding
+pls reply","1. Touch not responding
+2. chk FW version
+3. Refunded Rs 1899 ~Meera",helpdesk,2025-10-28 11:36:00,2025-10-28 23:22:00,,11.766666666666667,8.0,True,350.0,0.0
+TK-246486,2025-10-29 09:37,2025-10-29 10:19,2025-10-29 10:33,resolved,chat,C103092,VR896282,VA-EB-AIR,Connectivity,High,Chat Frontline,A3014,0,4.0,1709.0,GW-OTHER,N,the sound stutters whenever my phone is in my pocket.  VR896282,"1. BT dropouts
+2. Checked FW 1.4.7
+3. Full rfnd processed (1709) ~Rohan",helpdesk,2025-10-29 09:37:00,2025-10-29 10:19:00,2025-10-29 10:33:00,0.7,0.25,True,350.0,0.0
+TK-246720,2025-11-04 15:28,2025-11-04 19:13,2025-11-04 19:34,resolved,voice,C107096,VR900565,VA-EB-PL2,Charging & Battery,Normal,Voice Frontline,A3026,0,,3499.0,GW-OTHER,N,"[IVR transcript] the L bud is basically a paperweight now, R is fine, VR900565","1. L bud no charge in case
+2. Asked for photo of the bud contacts
+3. Replacement raised for the bud -NP",helpdesk,2025-11-04 15:28:00,2025-11-04 19:13:00,2025-11-04 19:34:00,3.75,2.0,True,350.0,0.0
+TK-246947,2025-11-09 20:06,2025-11-09 21:50,2025-11-09 22:13,resolved,social,C106942,VR899875,VA-HP-ST3,Audio Quality,Low,Chat Frontline,A3013,0,,2974.0,GW-OTHER,N,"Product: teh strata 3
+Order: VR899875
+Purchased: October 21
+Issue: no sound from the right earbud
+Tried: tried different phone
+Expected: fix",esc to wty. Issue: right side silent. Checked balance settings w/ cx. //SNE,helpdesk,2025-11-09 20:06:00,2025-11-09 21:50:00,2025-11-09 22:13:00,1.7333333333333334,4.0,False,0.0,0.0
+TK-248096,2025-12-08 21:55,2025-12-09 12:05,2025-12-09 12:46,resolved,email,C109378,VR901163,VA-EB-PL2,Connectivity,Normal,Email Frontline,A3022,0,4.0,3499.0,GW-OTHER,N,"namaste,
+got pulse2 from vireo.in a month ago. the progress bar has not moved since morning.
+how do i get this fixed?
+awaiting response,",update hang | walked through recovery mode -> refunded rs 3499,helpdesk,2025-12-08 21:55:00,2025-12-09 12:05:00,2025-12-09 12:46:00,14.166666666666666,8.0,True,350.0,0.0
+TK-248332,2025-12-15 18:41,2025-12-15 20:18,2025-12-25 21:59,resolved,email,C101614,VR889240,VA-EB-AIR,Audio Quality,Normal,Email Frontline,A3043,1,,1439.0,GW-OTHER,N,"helo
+sounds like a badly tuned radio now","Ticket raised for static noise in audio. Checked FW. Transferred to Escalations & wty. Refund approved, Rs 1439, 5-7 working days.",helpdesk,2025-12-15 18:41:00,2025-12-15 20:18:00,2025-12-25 21:59:00,1.6166666666666667,8.0,False,0.0,305.0
+TK-248884,2026-01-01 16:15,2026-01-01 18:13,2026-01-01 18:34,closed,voice,C104975,VR880676,VA-EB-PL2,Connectivity,High,Voice Frontline,A3026,0,5.0,665.0,GW-OTHER,N,Not what I expected from Vireo. Got Pulse 2 from Amazon 2 weeks ago. bluetooth keeps cutting out. I already reset both devices. Refund. Now.,"1. BT dropouts
+2. adv to test in different location
+3. Full rfnd processed (665) -NP",helpdesk,2026-01-01 16:15:00,2026-01-01 18:13:00,2026-01-01 18:34:00,1.9666666666666666,2.0,False,0.0,0.0
+TK-249069,2026-01-07 07:37,2026-01-07 12:32,2026-01-07 12:58,resolved,email,C106782,VR885891,VA-EB-PL2,Audio Quality,Normal,Email Frontline,A3019,0,,3149.0,GW-OTHER,N,distorted audio at high volume.  vr885891. waiting for ur reply,refund of rs 3149 initiated to source. issue: crackling/distortion. chk with different source.,helpdesk,2026-01-07 07:37:00,2026-01-07 12:32:00,2026-01-07 12:58:00,4.916666666666667,8.0,False,0.0,0.0
+TK-249095,2026-01-08 13:52,2026-01-08 15:01,2026-01-08 15:17,resolved,voice,C109388,VR892967,VA-EB-PL2,Audio Quality,Normal,Voice Frontline,A3023,0,,3149.0,GW-OTHER,N,i am losing patience. bought the pulse 2 earbuds around 13/12 from vireo.in. only one side plays sound. i already reset the buds. escalate thhis to someone senior.,rfnd of Rs 3149 initiated to source. Issue: right side silent. Walked through reset. //ZOY,helpdesk,2026-01-08 13:52:00,2026-01-08 15:01:00,2026-01-08 15:17:00,1.15,2.0,False,0.0,0.0
+TK-249488,2026-01-20 10:52,2026-01-20 12:37,2026-01-20 13:01,resolved,voice,C103629,VR902454,VA-NB-ARC,Connectivity,Normal,Voice Frontline,A3025,0,4.0,1104.0,GW-OTHER,N,[IVR transcript] random disconnects during calls vr902454,issue: connection dropping | advised to test in different location -> refunded rs 1104,helpdesk,2026-01-20 10:52:00,2026-01-20 12:37:00,2026-01-20 13:01:00,1.75,2.0,False,0.0,0.0
+TK-249894,2026-02-01 17:36,2026-02-01 18:11,2026-02-01 18:41,resolved,email,C109196,VR886597,VA-EB-PL2,App & Firmware,Normal,Email Frontline,A3018,0,,3149.0,GW-OTHER,N,battery draining even when not in use - VR886597,cust contacted re rapid battery drain. advised disabling anc/aod to test. refunded rs 3149. follow-up not required.,helpdesk,2026-02-01 17:36:00,2026-02-01 18:11:00,2026-02-01 18:41:00,0.5833333333333334,8.0,False,0.0,0.0
+TK-250108,2026-02-08 09:59,2026-02-08 10:03,2026-02-08 10:28,resolved,chat,C105079,VR892645,VA-EB-PL1,Audio Quality,Normal,Chat Frontline,A3012,0,,1124.0,GW-OTHER,N,"Product: the Pulsse buds
+Order: VR892645
+Purchased: 12-01-2026
+Issue: sounds like a bady tuned radoi now
+Tried: tried different apps
+Expected: fix",cx: audio distortion | checked fw -> rfnd of rs 1124 initiated to source -SS,helpdesk,2026-02-08 09:59:00,2026-02-08 10:03:00,2026-02-08 10:28:00,0.06666666666666667,0.25,False,0.0,0.0
+TK-250947,2026-03-06 21:01,2026-03-06 21:32,2026-03-09 03:08,resolved,voice,C102751,VR900436,VA-EB-PL2,Warranty & Repair,Normal,Escalations & Warranty,A3042,0,,3324.0,GW-OTHER,N,"[IVR transcript] hi vireo support, bought pulse2 arund 27/11 from vireo.in.  no update on my repair. i emailed twice. nothng changed. plaese help.",reported: repair status follow-up. checked qc report. refunded rs 3324.,helpdesk,2026-03-06 21:01:00,2026-03-06 21:32:00,2026-03-09 03:08:00,0.5166666666666667,2.0,False,0.0,0.0
+TK-251296,2026-03-18 19:35,2026-03-18 20:10,2026-03-18 20:29,resolved,voice,C104943,VR905606,VA-EB-PL1,Audio Quality,Low,Voice Frontline,A3024,0,,2499.0,GW-OTHER,N,[IVR transcript] i am losing patience. ordered pulse 1 last week. right earbud completely silent. i already reset the buds. this is the last time i buy from you.,"cx: no audio one side | checked balance settings with cx -> rfnd approved, rs 2499, 5-7 working days -SS",helpdesk,2026-03-18 19:35:00,2026-03-18 20:10:00,2026-03-18 20:29:00,0.5833333333333334,2.0,False,0.0,0.0
+TK-251307,2026-03-19 10:00,2026-03-19 10:14,2026-03-22 14:48,resolved,chat,C107792,VR898060,VA-EB-PL2,Warranty & Repair,Low,Escalations & Warranty,A3044,0,,525.0,GW-OTHER,N,"Dear Sir/Madam,
+
+I am wriiting with reference to my order of my Pulse 2 placed on 25 Nov. What is the status of my wararnty claim. I have called service centre. I request you to look into this matter at the earliest.
+
+Sincerely,
+Varun Das",- (sop 5.4) //AAD,helpdesk,2026-03-19 10:00:00,2026-03-19 10:14:00,2026-03-22 14:48:00,0.23333333333333334,0.25,False,0.0,0.0
+TK-251788,2026-04-02 22:12,2026-04-02 22:25,2026-04-05 01:00,resolved,chat,C106496,VR881657,VA-EB-PL2,Warranty & Repair,Normal,Escalations & Warranty,A3041,0,,3499.0,GW-OTHER,N,"dear sir/madam,
+
+i am writing with reference to my order of pulse 2 placed on 28/02. the charging case is not charging. i have tried 3 different cables. i request you to look into this matter at the earliest.
+
+sincerely,
+sukhwinder reddy","Contact re case not charging. Confirmed case LED dead. Refund approved, Rs 3499, 5-7 working days. Follow-up not required.",helpdesk,2026-04-02 22:12:00,2026-04-02 22:25:00,2026-04-05 01:00:00,0.21666666666666667,0.25,False,0.0,0.0
+TK-252191,2026-04-14 19:27,2026-04-14 19:36,2026-04-14 20:10,resolved,chat,C102454,VR893309,VA-EB-PL2,Charging & Battery,Normal,Chat Frontline,A3011,0,3.0,3499.0,GW-OTHER,N,"Got my Pulse 2 from Amazon last week. Battery drains very fast, barely lasts 2 hours.
+Need this sorted this week.
+Awaiting response Varun","re: battery draining fast | advised disabling anc/aod to test -> refund approved, rs 3499, 5-7 working days",helpdesk,2026-04-14 19:27:00,2026-04-14 19:36:00,2026-04-14 20:10:00,0.15,0.25,False,0.0,0.0
+TK-252381,2026-04-20 18:55,2026-04-20 19:11,2026-04-20 19:36,closed,voice,C100267,VR883531,VA-EB-PL2,Audio Quality,Normal,Voice Frontline,A3026,0,5.0,3499.0,GW-OTHER,N,"[IVR transcript] Hello Vireo, Got Pulse2 from Amazon 2 weeks ago.  Sounds like a badly tuned radio now. Please advise. Please revert Komal Siddiqui","1. Crackling/distortion
+2. Asked for a recording
+3. Replacement raissed",helpdesk,2026-04-20 18:55:00,2026-04-20 19:11:00,2026-04-20 19:36:00,0.26666666666666666,2.0,False,0.0,0.0
+TK-252700,2026-04-29 13:33,2026-04-29 13:41,2026-04-29 14:07,resolved,chat,C104335,VR899260,VA-EB-PL2,Audio Quality,Normal,Chat Frontline,A3012,0,3.0,2974.0,GW-OTHER,N,"no sound from the right earbud, vr899260",cx: no audio one side | asked cx to check bud in case -> refunded rs 2974 -SS,helpdesk,2026-04-29 13:33:00,2026-04-29 13:41:00,2026-04-29 14:07:00,0.13333333333333333,0.25,False,0.0,0.0
+TK-253271,2026-05-17 17:19,2026-05-17 17:25,2026-05-17 17:54,resolved,chat,C107942,VR888534,VA-EB-AIR,Charging & Battery,Low,Chat Frontline,A3011,0,,1709.0,GW-OTHER,N,DES BY LUNCHTIME WITH LIGHT USE,re: poor battery backup | advised disabling anc/aod to test -> full rfnd processed (1709) -SM,helpdesk,2026-05-17 17:19:00,2026-05-17 17:25:00,2026-05-17 17:54:00,0.1,0.25,False,0.0,0.0
+TK-253489,2026-05-24 23:23,2026-05-24 23:25,2026-05-24 23:42,closed,chat,C101146,VR909526,VA-NB-ARC,Audio Quality,Normal,Chat Frontline,A3003,0,3.0,2598.0,GW-OTHER,N,Really frustrating.  Ordered my Arc a month ago. everything sounds like it is coming from one direction now. I already checked balance settings. This is the last time I buy from you.,ticket raised for no audio one side. checked balance settings with cx. full refund processed (2598).,helpdesk,2026-05-24 23:23:00,2026-05-24 23:25:00,2026-05-24 23:42:00,0.03333333333333333,0.25,False,0.0,0.0
+TK-253614,2026-05-28 19:07,2026-05-28 19:37,2026-05-28 20:11,resolved,voice,C108438,VR890138,VA-SP-ORB,Charging & Battery,High,Voice Frontline,A3024,0,2.0,4799.0,GW-OTHER,N,"[IVR transcript] hi vireo support, i bought orbit speaker on 26 apr.  speaker not powering on at all. i tried different socket. please resolve asap. thanks in advance",re: speaker not powering on | asked cx to try different adaptor -> escalated to wty -SS,helpdesk,2026-05-28 19:07:00,2026-05-28 19:37:00,2026-05-28 20:11:00,0.5,2.0,False,0.0,0.0

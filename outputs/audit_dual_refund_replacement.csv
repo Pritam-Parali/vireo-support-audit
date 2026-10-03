@@ -1,0 +1,8 @@
+ticket_id,created_at,first_response_at,resolved_at,status,channel,customer_id,order_id,product_sku,category,priority,assigned_team,agent_id,transfers,csat_score,refund_amount_inr,refund_reason_code,replacement_issued,customer_message,agent_notes,source_system,created_at_dt,first_response_at_dt,resolved_at_dt,first_response_hours,sla_target_hours,is_sla_breach,sla_breach_cost_inr,transfer_cost_inr
+TK-241926,2025-04-18 09:02,2025-04-18 09:59,2025-04-18 04:53,resolved,email,C101439,VR888747,VA-HP-ST3,Returns & Refunds,Normal,Returns Desk,A3038,0,,6999.0,RETURN-QC-OK,Y,"pickup scheduled but no one shoewd up, vr888747, i waant my money back","1. Pickup missed
+2. Checked pickup AWB
+3. rfnd approved, Rs 6999, 5-7 working days (SOP 3.1) [closed]",legacy_fd,2025-04-18 09:02:00,2025-04-18 09:59:00,2025-04-18 10:23:00,0.95,8.0,False,0.0,0.0
+TK-248344,2025-12-16 00:44,2025-12-16 01:21,2025-12-19 01:54,resolved,chat,C102653,VR906727,VA-SP-MINI,Delivery & Shipping,High,Logistics,A3018,1,,250.0,RETURN-QC-OK,Y,"Dear team,
+orbit mini purchased last week, order VR906727.  Got a different colour than ordered.
+Please advise.
+Rgds",customer states wrong variant received. verified ord vs delivered item photos. transferred to email frontline. refunded rs 250. cx informed.,helpdesk,2025-12-16 00:44:00,2025-12-16 01:21:00,2025-12-19 01:54:00,0.6166666666666667,0.25,True,350.0,305.0
